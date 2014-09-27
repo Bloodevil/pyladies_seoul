@@ -11,5 +11,4 @@ Develop
 
 Server
 ======
-- heroku
-- pyladies-seoul.herokuapp.com
+
